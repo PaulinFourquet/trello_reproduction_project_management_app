@@ -45,9 +45,9 @@ Pour construire le projet en production, suivez ces étapes :
 2. Déployer les fichiers construits sur la plateforme d'hébergement de votre choix.
 
 # Auteurs : 
-  - Ryan
-  - Jean-Francis
-  - Paulin
+  - Ryan (https://github.com/Saladino-R)
+  - Jean-Francis (https://github.com/jfachard)
+  - Paulin (https://github.com/PaulinFourquet)
 
 # Licence : 
 
